@@ -1,7 +1,7 @@
 # Python-QRCode
 A code that generate QR Code in Python
 
-##How to use?
+## How to use?
 This is very simple.
 
 First install Python
@@ -13,7 +13,7 @@ pip3 install pillow
 
 Then you can run the code
 
-##How to edit the code?
+## How to edit the code?
 
 At this line :
 ```
