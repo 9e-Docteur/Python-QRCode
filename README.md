@@ -27,6 +27,7 @@ img = qr.make_image(fill_color="black", back_color="white")
 ```
 fill color is the color of the QR Code
 Back color is the background color
+
 ---
 ```
 img.save('qrcode.png')
